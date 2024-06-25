@@ -18,65 +18,68 @@
             "title": "Urtea"
           },
           {
-            "name": "Units",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Sexo"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES",
-                "ES70",
+                "ES211",
+                "ES212",
+                "ES213",
                 ""
               ]
             },
             "title": "Territorio"
           },
           {
-            "name": "Serie",
+            "name": "Umbral",
             "type": "string",
             "constraints": {
               "enum": [
-                "Serie A",
-                "Serie B",
-                "Serie C",
-                "Serie D",
+                "REG",
+                "NAC",
                 ""
               ]
             },
-            "title": "Serie"
+            "title": "Umbral"
           },
           {
-            "name": "Serie temporal",
+            "name": "Ingreso",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proporción de personas en riesgo de pobreza relativa según umbral de pobreza",
-                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado según umbral de pobreza",
+                "IMP_RENT",
                 ""
               ]
             },
-            "title": "Serie temporal"
+            "title": "Ingreso"
           },
           {
-            "name": "Umbral de pobreza",
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Umbral nacional de pobreza",
-                "Umbral autonómico de pobreza",
+                "PT",
                 ""
               ]
             },
-            "title": "Umbral de pobreza"
+            "title": "Units"
           },
           {
             "name": "Value",

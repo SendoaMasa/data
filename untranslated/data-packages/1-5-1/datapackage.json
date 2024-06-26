@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000 habitantes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES",
+                "ES53",
+                "ES531_071",
+                "ES531_072",
+                "ES532",
+                "ES533",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

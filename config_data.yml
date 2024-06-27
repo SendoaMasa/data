@@ -96,7 +96,7 @@ map_layers:
   - geojson_file: https://sendoamasa.github.io/data/Territorio.geojson
     name_property: Territorio
     id_property: Territorio
-    output_subfolder: regions
+    output_subfolder: geojson/regions/
     filename_prefix: indicator_
 
 # Documentation settings

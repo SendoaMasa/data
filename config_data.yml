@@ -93,7 +93,7 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: https://sendoamasa.github.io/data/Territorio.geojson
+  - geojson_file: data/Territorio.geojson
     name_property: Territorio
     id_property: Territorio
     output_subfolder: geojson/regions/

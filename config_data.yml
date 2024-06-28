@@ -95,7 +95,7 @@ reporting_status_extra_fields: []
 map_layers:
   - geojson_file: data/Territorio.geojson
     name_property: Territorionm
-#    id_property: Territoriocd
+    id_property: NULL
     output_subfolder: geojson/regions/
     filename_prefix: indicator_
 

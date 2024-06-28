@@ -96,7 +96,7 @@ map_layers:
   - geojson_file: data/Territorio.geojson
     name_property: Nombre
     id_property: ID
-    output_subfolder: geojson/regions/
+    output_subfolder: regions
     filename_prefix: indicator_
 
 # Documentation settings

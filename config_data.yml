@@ -95,7 +95,7 @@ reporting_status_extra_fields: []
 map_layers:
   - geojson_file: data/Territorio.geojson
     name_property: Nombre
-    id_property: ID
+    id_property: geocode
     id_column: GeoCode
     output_subfolder: regions/
     filename_prefix: indicator_

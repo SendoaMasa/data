@@ -12,7 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "I21",
+                "PCH_A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Producto",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ECOICOP_011",
+                "ECOICOP_0111",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES212",
+                "ES213",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

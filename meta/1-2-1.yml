@@ -33,7 +33,7 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+DATA_COMP: '$$PPRPR_{NAC}^{t} = \frac{PRPR_{NAC}^{t}}{P^{t}} \cdot 100$$ <br> donde: <br> $PRPR_{NAC}^{t} =$ población en riesgo de pobreza relativa considerando el umbral nacional de pobreza (60% de la mediana nacional de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ <br> $P^{t} =$ población total en el año  $t$'
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

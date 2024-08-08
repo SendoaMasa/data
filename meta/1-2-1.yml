@@ -33,7 +33,7 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: meta.1-2-1-formula
+DATA_COMP: $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''

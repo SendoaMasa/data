@@ -18,7 +18,17 @@ notaprensa: "Prentsa-oharrak"
 notaprensa_content: "Sar zaitez Eustatek argitaratutako prentsa-oharretan"
 notaprensa_link: "https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el"
 publicaciones: "Argitalpenak"
-publicaciones_content: ""
+publicaciones_content: >
+
+      [The Global Goals](https://www.globalgoals.org/)
+
+
+      [Implementing the Sustainable Development
+      Goals](https://www.gov.uk/government/publications/implementing-the-sustainable-development-goals/implementing-the-sustainable-development-goals--2)
+     
+
+      <a href="./about/#more-resources" aria-label="More resources">More
+      resources...</a>
 publicaciones_button_label: "Prentsa oharrak"
 publicaciones_link: "https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el"
 recursosUtiles: "Baliabide erabilgarriak"

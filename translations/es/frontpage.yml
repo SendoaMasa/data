@@ -21,18 +21,20 @@ notaprensa_link: "https://www.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_
 publicaciones: "Publicaciones"
 publicaciones_content: '>
 
-      [Leaving no one behind - a review of who has been most affected by the coronavirus pandemic in the UK](https://www.ons.gov.uk/economy/environmentalaccounts/articles/leavingnoonebehindareviewofwhohasbeenmostaffectedbythecoronaviruspandemicintheuk/december2021)
+      [Notas de prensa](https://eu.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_2030-agendako-garapen-jasangarriaren-adierazleak/temas.html#el)
 
 
-      [UK Sustainable Development Goals: use of non-official sources](https://www.ons.gov.uk/economy/environmentalaccounts/methodologies/uksustainabledevelopmentgoalsuseofnonofficialsources)
+      [Informe voluntario de seguimiento multinivel - 2024](https://www.euskadi.eus/contenidos/informacion/docs_interes_transicionsocial/es_def/adjuntos/8-INFORME-CASTELLANO-WEB.pdf)
+     
 
-      <br/><br/>
-
-      <a href="./publications" aria-label="More publications">More
-      publications...</a>'
-publicaciones_button_label: "Notas de prensa"
-publicaciones_link: "https://www.eustat.eus/estadisticas/tema_1393/opt_1/tipo_6/ti_indicadores-de-la-agenda-2030-para-el-desarrollo-sostenible/temas.html#el"
+      [Otros documentos](https://www.euskadi.eus/documentos-de-interes-transicion-social/web01-a2lehetr/es/)'
 recursosUtiles: "Recursos útiles"
-recursosUtiles_content: ""
-recursosUtiles_button_label: "ODS en Instituciones Internacionales"
-recursosUtiles_link: ""
+recursosUtiles_content: '>
+
+      [ODS en Instituciones Internacionales](./ods-en-instituciones-internacionales)
+
+
+      [Indicadores ODS en otros países](./indicadores-ods-en-otros-paises )
+
+
+      [Indicadores ODS en otras Comunidades Autónomas](./indicadores-ods-en-otras-comunidades-autonomas)'

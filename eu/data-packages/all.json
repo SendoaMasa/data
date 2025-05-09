@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Territorio",
@@ -42,12 +42,12 @@
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -83,7 +83,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -114,7 +114,7 @@
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Producto",
@@ -133,25 +133,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "IX",
-                "PT",
+                "Aurkibidea",
+                "Ehunekoa",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "GeoCode",
@@ -161,7 +161,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -187,25 +187,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Umbral",
@@ -240,16 +240,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Ehunekoa",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -285,7 +285,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -309,7 +309,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -333,7 +333,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -357,7 +357,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -381,7 +381,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -405,7 +405,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -429,7 +429,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -453,7 +453,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -477,7 +477,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -501,7 +501,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -525,7 +525,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -549,7 +549,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -573,7 +573,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -597,7 +597,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -621,7 +621,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -645,7 +645,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -669,7 +669,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -693,7 +693,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -717,7 +717,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -741,7 +741,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -765,7 +765,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -789,7 +789,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -813,7 +813,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -837,7 +837,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -861,7 +861,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -885,7 +885,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -909,7 +909,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -933,7 +933,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -957,7 +957,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -981,7 +981,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1005,7 +1005,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1029,7 +1029,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1053,7 +1053,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1077,7 +1077,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1101,7 +1101,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1125,7 +1125,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1149,7 +1149,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1173,7 +1173,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1197,7 +1197,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1221,7 +1221,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1245,7 +1245,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1269,7 +1269,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1293,7 +1293,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1317,7 +1317,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1341,7 +1341,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1365,7 +1365,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1389,7 +1389,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1413,7 +1413,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1437,7 +1437,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1461,7 +1461,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1485,7 +1485,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1509,7 +1509,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1533,7 +1533,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1557,7 +1557,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1581,7 +1581,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1605,7 +1605,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1629,7 +1629,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1653,7 +1653,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1677,7 +1677,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1701,7 +1701,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1725,7 +1725,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1749,7 +1749,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1773,7 +1773,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1797,7 +1797,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1821,7 +1821,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1845,7 +1845,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1869,7 +1869,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1893,7 +1893,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1917,7 +1917,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1941,7 +1941,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1965,7 +1965,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -1989,7 +1989,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2013,7 +2013,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2037,7 +2037,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2061,7 +2061,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2085,7 +2085,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2109,7 +2109,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2133,7 +2133,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2157,7 +2157,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2181,7 +2181,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2205,7 +2205,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2229,7 +2229,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2253,7 +2253,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2277,7 +2277,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2301,7 +2301,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2325,7 +2325,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2349,7 +2349,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2373,7 +2373,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2397,7 +2397,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2421,7 +2421,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2445,7 +2445,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2469,7 +2469,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2493,7 +2493,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2517,7 +2517,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2541,7 +2541,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2565,7 +2565,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2589,7 +2589,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2613,7 +2613,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2637,7 +2637,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2661,7 +2661,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2685,7 +2685,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2709,7 +2709,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2733,7 +2733,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2757,7 +2757,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2781,7 +2781,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2805,7 +2805,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2829,7 +2829,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2853,7 +2853,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2877,7 +2877,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2901,7 +2901,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2925,7 +2925,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2949,7 +2949,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2973,7 +2973,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -2997,7 +2997,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3021,7 +3021,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3045,7 +3045,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3069,7 +3069,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3093,7 +3093,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3117,7 +3117,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3141,7 +3141,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3165,7 +3165,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3189,7 +3189,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3213,7 +3213,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3237,7 +3237,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3261,7 +3261,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3285,7 +3285,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3309,7 +3309,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3333,7 +3333,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3357,7 +3357,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3381,7 +3381,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3405,7 +3405,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3429,7 +3429,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3453,7 +3453,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3477,7 +3477,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3501,7 +3501,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3525,7 +3525,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3549,7 +3549,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3573,7 +3573,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3597,7 +3597,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3621,7 +3621,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3645,7 +3645,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3669,7 +3669,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3693,7 +3693,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3717,7 +3717,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3741,7 +3741,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3765,7 +3765,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3789,7 +3789,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3813,7 +3813,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3837,7 +3837,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3861,7 +3861,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3885,7 +3885,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3909,7 +3909,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3933,7 +3933,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3957,7 +3957,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -3981,7 +3981,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4005,7 +4005,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4029,7 +4029,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4053,7 +4053,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4077,7 +4077,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4101,7 +4101,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4125,7 +4125,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4149,7 +4149,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4173,7 +4173,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4197,7 +4197,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4221,7 +4221,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4245,7 +4245,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4269,7 +4269,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4293,7 +4293,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4317,7 +4317,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4341,7 +4341,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4365,7 +4365,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4389,7 +4389,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4413,7 +4413,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4437,7 +4437,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4461,7 +4461,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4485,7 +4485,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4509,7 +4509,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4533,7 +4533,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4557,7 +4557,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4581,7 +4581,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4605,7 +4605,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4629,7 +4629,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4653,7 +4653,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4677,7 +4677,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4701,7 +4701,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4725,7 +4725,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4749,7 +4749,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4773,7 +4773,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4797,7 +4797,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4821,7 +4821,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4845,7 +4845,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4869,7 +4869,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4893,7 +4893,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4917,7 +4917,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4941,7 +4941,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4965,7 +4965,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -4989,7 +4989,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5013,7 +5013,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5037,7 +5037,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5061,7 +5061,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5085,7 +5085,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5109,7 +5109,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5133,7 +5133,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5157,7 +5157,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5181,7 +5181,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5205,7 +5205,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5229,7 +5229,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5253,7 +5253,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5277,7 +5277,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5301,7 +5301,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5325,7 +5325,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5349,7 +5349,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5373,7 +5373,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5397,7 +5397,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5421,7 +5421,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5445,7 +5445,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5469,7 +5469,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5493,7 +5493,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5517,7 +5517,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5541,7 +5541,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5565,7 +5565,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5589,7 +5589,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5613,7 +5613,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5637,7 +5637,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5661,7 +5661,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5685,7 +5685,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5709,7 +5709,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5733,7 +5733,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5757,7 +5757,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5781,7 +5781,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5805,7 +5805,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5829,7 +5829,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5853,7 +5853,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5877,7 +5877,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5901,7 +5901,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5925,7 +5925,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5949,7 +5949,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5973,7 +5973,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -5997,7 +5997,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6021,7 +6021,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6045,7 +6045,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6069,7 +6069,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6093,7 +6093,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6117,7 +6117,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6141,7 +6141,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6165,7 +6165,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
@@ -6189,7 +6189,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       },
